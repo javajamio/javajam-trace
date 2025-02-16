@@ -1,0 +1,25 @@
+{
+  "header" : {
+    "parent" : "0x9b614eaed720ba58cc52b295dd6afe5e01859626e4efc868b26ef17a0345a3b8",
+    "slot" : 5937009,
+    "parent_state_root" : "0x9d8209fda11c6173dee741822cc6c9797d87a7af53820e8a0e1e8c75b396b7c6",
+    "extrinsic_hash" : "0x189d15af832dfe4f67744008b62c334b569fcbb4c261e0f065655697306ca252",
+    "epoch_mark" : null,
+    "tickets_mark" : null,
+    "offenders_mark" : [ ],
+    "author_index" : 4,
+    "entropy_source" : "0x353287056d346411836b34378624873b7d2c5265dada905890eda121bea7c61e0ac4bc308ea5e6736245b7f2bc2dc67903093913e3d0da748493d40dc8a9990b9f939542d0388ea5d4b18b482b8b38d7e0df60ee9f38a06b0418e189b28a3814",
+    "seal" : "0xaa101d783885e873b7278f43d951a41bb39852672bd3d33db42bf7c76fab054d73bd422c3b8c567ddb8ef5bdbb5b0e9c65305e3925ef1baf48085cf6c70c9b0ea97ee8b67e0aa0a8ea6fd254dbc43acbea9558ebfed88a66fdd50887913fb910"
+  },
+  "extrinsic" : {
+    "tickets" : [ ],
+    "disputes" : {
+      "verdicts" : [ ],
+      "culprits" : [ ],
+      "faults" : [ ]
+    },
+    "preimages" : [ ],
+    "assurances" : [ ],
+    "guarantees" : [ ]
+  }
+}
