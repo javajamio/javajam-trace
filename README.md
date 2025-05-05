@@ -3,6 +3,7 @@
 ASN.1 Schema
 ```
 OpaqueHash ::= OCTET STRING (SIZE(32))
+StateKey ::= OCTET STRING (SIZE(31))
 ByteSequence ::= OCTET STRING
 
 TestCase ::= SEQUENCE {
@@ -16,8 +17,12 @@ TestState ::= SEQUENCE {
     keyvals      KeyVals
 }
 
+KeyVal ::= SEQUENCE {
+    key   StateKey,
+    val   ByteSequence
+}
+
 KeyVals ::= SEQUENCE OF KeyVal
-KeyVal ::= SEQUENCE (SIZE(4)) OF ByteSequence
 ```
 
 All transition vectors are based on the [Tiny](https://docs.jamcha.in/basics/chain-spec/tiny) chain specifications.
