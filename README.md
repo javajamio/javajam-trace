@@ -1,5 +1,7 @@
 # JavaJAM State Transition Traces
 
+Gray Paper Compatibility: 0.6.7
+
 ASN.1 Schema
 ```
 OpaqueHash ::= OCTET STRING (SIZE(32))
