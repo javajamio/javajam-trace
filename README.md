@@ -1,6 +1,6 @@
 # JavaJAM State Transition Traces
 
-Gray Paper Compatibility: 0.6.7
+Gray Paper Compatibility: 0.7.0
 
 ASN.1 Schema
 ```
