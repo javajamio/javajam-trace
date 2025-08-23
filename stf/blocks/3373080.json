@@ -1,0 +1,47 @@
+{
+  "header" : {
+    "parent" : "0x659b53f40e0c1534eb185f1122fdcec9f4ddcff75d80c8060e8b8abdbb42893a",
+    "slot" : 3373080,
+    "parent_state_root" : "0x0831b06c8b0139af55fb3f94089ecbbf9cffd4813329f69f851e410171a2b3c8",
+    "extrinsic_hash" : "0x189d15af832dfe4f67744008b62c334b569fcbb4c261e0f065655697306ca252",
+    "epoch_mark" : {
+      "entropy" : "0x02402c73f86fa7337ace23c92ef30a5ccdfd5b59b75b85fd846bf1b06f89299d",
+      "tickets_entropy" : "0xc7e670a84e31e4303c40d79f6f00d5807db9e12ca2a692bd9894f9ff836ebaa3",
+      "validators" : [ {
+        "bandersnatch" : "0x9326edb21e5541717fde24ec085000b28709847b8aab1ac51f84e94b37ca1b66",
+        "ed25519" : "0xcab2b9ff25c2410fbe9b8a717abb298c716a03983c98ceb4def2087500b8e341"
+      }, {
+        "bandersnatch" : "0x0746846d17469fb2f95ef365efcab9f4e22fa1feb53111c995376be8019981cc",
+        "ed25519" : "0xf30aa5444688b3cab47697b37d5cac5707bb3289e986b19b17db437206931a8d"
+      }, {
+        "bandersnatch" : "0x2105650944fcd101621fd5bb3124c9fd191d114b7ad936c1d79d734f9f21392e",
+        "ed25519" : "0xab0084d01534b31c1dd87c81645fd762482a90027754041ca1b56133d0466c06"
+      }, {
+        "bandersnatch" : "0xdee6d555b82024f1ccf8a1e37e60fa60fd40b1958c4bb3006af78647950e1b91",
+        "ed25519" : "0xad93247bd01307550ec7acd757ce6fb805fcf73db364063265b30a949e90d933"
+      }, {
+        "bandersnatch" : "0xff71c6c03ff88adb5ed52c9681de1629a54e702fc14729f6b50d2f0a76f185b3",
+        "ed25519" : "0x4418fb8c85bb3985394a8c2756d3643457ce614546202a2f50b093d762499ace"
+      }, {
+        "bandersnatch" : "0x151e5c8fe2b9d8a606966a79edd2f9e5db47e83947ce368ccba53bf6ba20a40b",
+        "ed25519" : "0x8b8c5d436f92ecf605421e873a99ec528761eb52a88a2f9a057b3b3003e6f32a"
+      } ]
+    },
+    "tickets_mark" : null,
+    "offenders_mark" : [ ],
+    "author_index" : 4,
+    "entropy_source" : "0x7c40940c845c3e242267bfb58b533195bc2030d36f70c42a925a5b7ca2915e49e37c82e497b107cb524cb94e45345bf231d4de2fbcff2b39bd88863358d7970b7e3d56e3d34e5ed652af6ebc44fe39032e8a08558dcf2554547de293c5bcfa1a",
+    "seal" : "0x9b18c6df39ef68033453dd41796adc9da9dff4e8700d976360c9321a59760c13a20f73e22c177d0e7aa3d3ae6585c82ae0787e6672f49f6823b392c70fada2043ae06498519834bb0ce1581191cf3d4633b29721a7f4575020876a6d29754a02"
+  },
+  "extrinsic" : {
+    "tickets" : [ ],
+    "disputes" : {
+      "verdicts" : [ ],
+      "culprits" : [ ],
+      "faults" : [ ]
+    },
+    "preimages" : [ ],
+    "assurances" : [ ],
+    "guarantees" : [ ]
+  }
+}
