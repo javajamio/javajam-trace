@@ -1,0 +1,61 @@
+{
+  "header" : {
+    "parent" : "0xf95185816308430e39424862e7917a33adbd25e77a37322fdbd6d11e8ac834ba",
+    "slot" : 3932842,
+    "parent_state_root" : "0xf53e20fa643676f2bd8cacfe162d6e6d03118e300c1802cc125c0eef9212b1e4",
+    "extrinsic_hash" : "0x189d15af832dfe4f67744008b62c334b569fcbb4c261e0f065655697306ca252",
+    "epoch_mark" : null,
+    "tickets_mark" : [ {
+      "attempt" : 0,
+      "id" : "0x086a52bb59175daf79a5f0bf209841295173f33176f53927ee2055a2073e826b"
+    }, {
+      "attempt" : 0,
+      "id" : "0x777411c4d85667b17cf1f71354475a9e4de993ab6e3f237e3b44eb7ea4e22264"
+    }, {
+      "attempt" : 0,
+      "id" : "0x130b840a69996d6a8c31459b50fb09826f11f5bdb72208ed1ceb440a9736cc2d"
+    }, {
+      "attempt" : 1,
+      "id" : "0x76eeb5717d8af4d85aaa8c336ad5d900201109fde19224ebff8cc3581653b251"
+    }, {
+      "attempt" : 2,
+      "id" : "0x14fab8bed937cd92bbca74e6ee331c7c9a047303606008180033059c2be0dd71"
+    }, {
+      "attempt" : 1,
+      "id" : "0x74a1a31ea070904c55650eebad09055fa3a3748a63e59407e4defc8dd61a4387"
+    }, {
+      "attempt" : 2,
+      "id" : "0x1f18291d62750d7a4c9effd5bb6076ac6e1dc9a8d8ba74cd358d60f47d2fdb12"
+    }, {
+      "attempt" : 0,
+      "id" : "0x7301d91f700112828e56fe3c40799fe19c21791e34f7f7c3a291d69daf5e0834"
+    }, {
+      "attempt" : 2,
+      "id" : "0x21e02cd1ac01f0100442f8da22ba584f0d6ca2e244131c0ed171344698796934"
+    }, {
+      "attempt" : 1,
+      "id" : "0x6525b26f3d2482f28ce2bcd56322143a02e268bee665efb9839d96a580743658"
+    }, {
+      "attempt" : 0,
+      "id" : "0x3f59ea27405d3edea74798aa8fa2835b0321ab72b354c4e6d210b76b7db7cee4"
+    }, {
+      "attempt" : 1,
+      "id" : "0x5d5ff1962d85ae7a51dbcd6fd17b87ba9b07defa8c172febcdf2f0746590ee2b"
+    } ],
+    "offenders_mark" : [ ],
+    "author_index" : 4,
+    "entropy_source" : "0x4acb10d35e362b6f39ac77c87f74805f58ca6d8024b2f77e3c3f58758349d3cb22cd1b3a22241dc54990b32f236518491f8f9a17a9479660507cf27cdcb162185a3f9361613520591dba3686600c01eda01b5847b9f3b22301fc4725d6ad1a02",
+    "seal" : "0xb51ffa89380e9ce0937a8593e3f446399a2dd537907d4382056d86108825b0e20302da4ae0262feb0d5ee38e7173b0a63eeaf958c6c6b9eeb2176611bf2aef19f47ced452c0e048f773abef200a4e90ef5be018ae001c3f0250271616017f60b"
+  },
+  "extrinsic" : {
+    "tickets" : [ ],
+    "disputes" : {
+      "verdicts" : [ ],
+      "culprits" : [ ],
+      "faults" : [ ]
+    },
+    "preimages" : [ ],
+    "assurances" : [ ],
+    "guarantees" : [ ]
+  }
+}

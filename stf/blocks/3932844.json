@@ -1,0 +1,47 @@
+{
+  "header" : {
+    "parent" : "0x1de9d6bda4b54608cc86dced2bc5c54ff240091acf8500771e4131101cb273f1",
+    "slot" : 3932844,
+    "parent_state_root" : "0x3fe7dc357ade48556a6cfbef85972c590c47519fa4f9971f4e8b3d18ab1dbdee",
+    "extrinsic_hash" : "0x189d15af832dfe4f67744008b62c334b569fcbb4c261e0f065655697306ca252",
+    "epoch_mark" : {
+      "entropy" : "0x64370e5da125b3f0fdda97bccea02c7f29297dc566feb210bf1176918ff5131e",
+      "tickets_entropy" : "0x37946689403d021d3a25991665454a8f77220a6b0d71bb414143788dbe3e3cc3",
+      "validators" : [ {
+        "bandersnatch" : "0x2105650944fcd101621fd5bb3124c9fd191d114b7ad936c1d79d734f9f21392e",
+        "ed25519" : "0xab0084d01534b31c1dd87c81645fd762482a90027754041ca1b56133d0466c06"
+      }, {
+        "bandersnatch" : "0xdee6d555b82024f1ccf8a1e37e60fa60fd40b1958c4bb3006af78647950e1b91",
+        "ed25519" : "0xad93247bd01307550ec7acd757ce6fb805fcf73db364063265b30a949e90d933"
+      }, {
+        "bandersnatch" : "0x0746846d17469fb2f95ef365efcab9f4e22fa1feb53111c995376be8019981cc",
+        "ed25519" : "0xf30aa5444688b3cab47697b37d5cac5707bb3289e986b19b17db437206931a8d"
+      }, {
+        "bandersnatch" : "0x9326edb21e5541717fde24ec085000b28709847b8aab1ac51f84e94b37ca1b66",
+        "ed25519" : "0xcab2b9ff25c2410fbe9b8a717abb298c716a03983c98ceb4def2087500b8e341"
+      }, {
+        "bandersnatch" : "0x151e5c8fe2b9d8a606966a79edd2f9e5db47e83947ce368ccba53bf6ba20a40b",
+        "ed25519" : "0x8b8c5d436f92ecf605421e873a99ec528761eb52a88a2f9a057b3b3003e6f32a"
+      }, {
+        "bandersnatch" : "0xff71c6c03ff88adb5ed52c9681de1629a54e702fc14729f6b50d2f0a76f185b3",
+        "ed25519" : "0x4418fb8c85bb3985394a8c2756d3643457ce614546202a2f50b093d762499ace"
+      } ]
+    },
+    "tickets_mark" : null,
+    "offenders_mark" : [ ],
+    "author_index" : 1,
+    "entropy_source" : "0xec34200b3c9abb804483e760a96015e2e4ce14e761eaee458f415fdb0eedc5a83d00c4149e62a9893f21cff150077dcc41ef43567e43a4e15c45e10237bbd90bd43bc45913a96df6e0ec4d6171e96955a67084caa00a12b702095cbb1c3d3603",
+    "seal" : "0x75ca8f3c53e202627cb6f2cb91bc395f358b72c9071d3199d60ad0ecb38e3767d0b2e54da0572d584c2be1ac85d84bda14deec9a2ff18dd772e9f191473c1f1938a3a796d47e44992d5524d59e53ecb337660641d80763f13abc6b887d90991b"
+  },
+  "extrinsic" : {
+    "tickets" : [ ],
+    "disputes" : {
+      "verdicts" : [ ],
+      "culprits" : [ ],
+      "faults" : [ ]
+    },
+    "preimages" : [ ],
+    "assurances" : [ ],
+    "guarantees" : [ ]
+  }
+}
